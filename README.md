@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zhujs1103
-- 👀 I’m interested in running and bicycle
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on school pojects
-- 📫 How to reach me zhujs1103@163.com
+- 👋 Hi, I’m jasondrew
+- 👀 I’m interested in basketball and valorant
+- 🌱 I’m currently deep learning
+- 💞️ I’m looking to meet friends
+- 📫 How to reach me jasondrew1103@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: depression
 
